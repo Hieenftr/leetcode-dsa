@@ -1,24 +1,17 @@
-# leetcode-dsa
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/Hieenftr/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/Hieenftr/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
-## Sorting
-|  |
-| ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/Hieenftr/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/Hieenftr/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
-## Quickselect
-|  |
-| ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/Hieenftr/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
-<!---LeetCode Topics End-->
+# 🧩 LeetCode DSA (Python & SQL)
+
+Auto-collected via LeetHub → curated & organized into a clean structure.  
+**Languages**: Python, SQL
+
+## 📊 Problem Index
+<!-- TABLE_START -->
+| No.  | Title | Solution | Acceptance | Difficulty |
+|------|-------|----------|------------|------------|
+| 0215 | [Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](H:/leetcode-dsa/solutions/python/0215-kth-largest-element-in-an-array.py) | - | - |
+<!-- TABLE_END -->
+
+## 📂 Structure
+
+solutions/
+├─ python/####-slug.py
+└─ sql/####-slug.sql
