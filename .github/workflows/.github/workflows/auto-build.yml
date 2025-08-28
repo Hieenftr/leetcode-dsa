@@ -1,4 +1,4 @@
-name: Auto organize & build README (Python + SQL)
+name: Auto organize & build README (Python + SQL, flat solutions)
 
 on:
   push:
@@ -8,6 +8,8 @@ on:
       - 'scripts/**'
       - 'README.md'
   workflow_dispatch: {}
+  schedule:
+    - cron: '0 3 * * 1' 
 
 jobs:
   build:
@@ -29,6 +31,6 @@ jobs:
         with:
           commit_message: "chore: auto-organize solutions & update README"
           file_pattern: |
-            solutions/python/**
-            solutions/sql/**
+            solutions/**
             README.md
+            .cache/leetcode_meta.json

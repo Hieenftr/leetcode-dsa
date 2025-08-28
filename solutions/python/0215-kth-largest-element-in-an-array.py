@@ -1,3 +1,7 @@
+# Title: Kth Largest Element In An Array
+# Time: O(n log k)  |  Space: O(k)
+# Tags: Array, Heap, Quickselect
+
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
         heap = []

@@ -8,6 +8,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Raw LeetHub dump (ignored)
+.raw/
+
+# Tool cache
+.cache/
+
 # Distribution / packaging
 .Python
 build/
