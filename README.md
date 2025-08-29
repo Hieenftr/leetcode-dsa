@@ -15,7 +15,7 @@ Auto-collected via LeetHub → curated & organized into a clean structure.
 
 ## Topics (Algorithms)
 <!-- TOPICS_START -->
-_Add `Tags:` lines in file headers to populate this section._
+
 <!-- TOPICS_END -->
 
 ## Structure
