@@ -2,14 +2,20 @@ import os, re, shutil, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 DEST_DIR = ROOT / "solutions"
-RAW_DIR  = ROOT / ".raw"   
+RAW_DIR  = ROOT / ".raw"   # nơi lưu "rác" (được ignore)
 RAW_DIR.mkdir(parents=True, exist_ok=True)
+
 
 SKIP_PREFIXES = (".git", ".github", "scripts", "solutions", ".cache", ".venv", ".raw")
 
+
+SAFE_ROOT_FILES = {
+    "README.md", ".gitignore", "stats.json",
+}
+
 # ---------- helpers ----------
 def extract_from_header(p: pathlib.Path):
-
+    
     try:
         with open(p, "r", encoding="utf-8", errors="ignore") as f:
             head = "".join([next(f) for _ in range(40)])
@@ -56,11 +62,11 @@ def parse_name(p: pathlib.Path):
     return qid, slug
 
 def looks_like_leethub_dir(dirname: str) -> bool:
-    
+    # Ex: "0215-kth-largest-element-in-an-array"
     return bool(re.match(r"^\d{3,5}([\-_.\s].+)?$", dirname))
 
 def looks_like_solution_filename(name: str) -> bool:
-    
+
     return bool(re.match(r"^\d{3,5}-[a-z0-9\-]+\.(py|sql)$", name, re.I))
 
 # ---------- main ----------
@@ -69,7 +75,7 @@ def move_solutions():
     moved, raw_moved = 0, 0
 
     for dirpath, dirnames, filenames in os.walk(ROOT, topdown=True):
-        
+
         rel = pathlib.Path(dirpath).relative_to(ROOT).as_posix()
         dirnames[:] = [
             d for d in dirnames
@@ -81,16 +87,20 @@ def move_solutions():
         in_leethub_dir = looks_like_leethub_dir(dname)
 
         for fname in filenames:
+
+            if dpath == ROOT and fname in SAFE_ROOT_FILES:
+                continue
+
+
             p = dpath / fname
             ext = p.suffix.lower()
 
-            
+
             if ext in (".py", ".sql"):
                 has_id, has_title = extract_from_header(p)
                 is_solution_name = looks_like_solution_filename(fname)
 
                 if in_leethub_dir or has_id or has_title or is_solution_name:
-                   
                     qid, slug = parse_name(p)
                     dest = DEST_DIR / f"{qid}-{slug}{ext}"
                     i = 1
@@ -100,9 +110,8 @@ def move_solutions():
                     dest.parent.mkdir(parents=True, exist_ok=True)
                     shutil.move(str(p), str(dest))
                     moved += 1
-                    continue  
+                    continue 
 
-            
             rel_file = p.relative_to(ROOT)
             raw_dest = RAW_DIR / rel_file
             raw_dest.parent.mkdir(parents=True, exist_ok=True)
@@ -112,7 +121,7 @@ def move_solutions():
             except Exception:
                 pass
 
-        
+
         try:
             dpath.rmdir()
         except OSError:
