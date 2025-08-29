@@ -11,6 +11,25 @@ CACHE_DIR.mkdir(exist_ok=True)
 API_URL = "https://leetcode.com/graphql"
 HEADERS = {"Content-Type": "application/json"}
 
+
+def iter_entries():
+    entries = {}
+    if not SOL_DIR.exists():
+        return entries
+    for f in sorted(SOL_DIR.iterdir()):
+        if not f.is_file() or f.suffix.lower() not in (".py", ".sql"):
+            continue
+        m = re.match(r"(\d+)-(.+)\.(py|sql)$", f.name, re.I)
+        if not m:  # bỏ file không đúng format
+            continue
+        pid = int(m.group(1)); slug = m.group(2); ext = m.group(3).lower()
+        title_guess = slug.replace("-", " ").title()
+        key = (pid, slug, title_guess)
+        link = "[Python]({})".format(f.as_posix()) if ext == "py" else "[SQL]({})".format(f.as_posix())
+        entries.setdefault(key, {"id": pid, "slug": slug, "title_guess": title_guess, "solutions": []})
+        entries[key]["solutions"].append(link)
+    return entries
+
 # ----------------- utilities -----------------
 def read_header_fields(path: pathlib.Path):
     """Parse Title/Time/Space/Tags from first ~40 lines."""
