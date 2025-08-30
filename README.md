@@ -19,3 +19,15 @@ Auto-collected via LeetHub → curated & organized into a clean structure.
 <!-- TOPICS_END -->
 
 ## Structure
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Hieenftr/leetcode-dsa/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Hieenftr/leetcode-dsa/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics End-->
