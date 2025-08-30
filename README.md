@@ -26,8 +26,10 @@ Auto-collected via LeetHub → curated & organized into a clean structure.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hieenftr/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Hieenftr/leetcode-dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hieenftr/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Hieenftr/leetcode-dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
