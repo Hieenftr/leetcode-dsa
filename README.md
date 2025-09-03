@@ -23,6 +23,8 @@ docs/ # style guide & templates
 
 | # | Title | Difficulty | Tags | Solution | Time | Space |
 |---|-------|------------|------|----------|------|-------|
+| 394 | Decode String | Medium | Stack, String | [solution.py](solutions/strings/0394-decode-string/solution.py) | O(n) | O(n) |
+
 
 ## Conventions
 - Folder name: `XXXX-kebab-title` (e.g., `0394-decode-string`)
