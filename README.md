@@ -1,8 +1,5 @@
 # LeetCode & DSA
 
-A curated, well-documented collection of my LeetCode & DSA solutions in **Python**.  
-Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and concise **approach notes**.
-
 <p align="center">
   <img alt="Language" src="https://img.shields.io/badge/python-3.10+-blue">
   <img alt="Update" src="https://img.shields.io/badge/update-weekly-brightgreen">
@@ -10,16 +7,10 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Hieenftr&label=Profile%20views&color=blue&style=flat">
 </p>
 
-## Structure
-leetcode-dsa/
-├─ solutions/
-│ └─ <topic>/<id-title>/
-│ ├─ solution.py # includes metadata header
-│ └─ README.md # optional: idea, variations, pitfalls
-├─ tools/ # automation (build index, validators)
-├─ docs/ # style guide & templates
-├─ .gitignore
-└─ README.md
+
+A curated, well-documented collection of my LeetCode & DSA solutions in **Python**.  
+Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and concise **approach notes**.
+
 
 
 ## Index
