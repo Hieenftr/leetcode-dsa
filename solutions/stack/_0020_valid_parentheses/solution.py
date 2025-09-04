@@ -36,3 +36,17 @@ class Solution:
                 return False
 
         return not stack
+
+
+if __name__ == "__main__":
+    
+    s = Solution()
+    
+    assert s.isValid("(") is False
+    assert s.isValid("(]") is False
+    assert s.isValid("([)]") is False
+    assert s.isValid("()") is True
+    assert s.isValid("()[]{}") is True
+    assert s.isValid("{[]}") is True
+    
+    print("Quick tests passed")
