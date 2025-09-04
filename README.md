@@ -18,8 +18,8 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 
 | # | Title | Difficulty | Tags | Solution | Time | Space |
 |---|-------|------------|------|----------|------|-------|
-| 20 | Valid Parentheses | Easy | Stack, String | [solution.py](solutions/stack/0020-valid-parentheses/solution.py) | O(n) | O(n) |
-| 394 | Decode String | Medium | Stack, String | [solution.py](solutions/strings/0394-decode-string/solution.py) | O(n) | O(n) |
+| 20 | Valid Parentheses | Easy | Stack, String | [solution.py](solutions/stack/_0020_valid_parentheses/solution.py) | O(n) | O(n) |
+| 394 | Decode String | Medium | Stack, String | [solution.py](solutions/strings/_0394_decode_string/solution.py) | O(n) | O(n) |
 
 
 ## Conventions
