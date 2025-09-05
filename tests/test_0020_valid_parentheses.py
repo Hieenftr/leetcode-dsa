@@ -1,5 +1,5 @@
 import pytest
-from solutions.stack._0020_valid_parentheses.solution import Solution
+from solutions.s01_stack.lc_0020_valid_parentheses import Solution
 
 @pytest.mark.parametrize("s,expected", [
     ("(", False),
