@@ -4,6 +4,13 @@ import sys
 from pathlib import Path
 from typing import List, Dict, Optional, Tuple
 
+def clean_title(title: str) -> str:
+    """
+    Remove leading problem number like '20. ' or '394 ' from a title.
+    Accepts optional dot and spaces.
+    """
+    return re.sub(r'^\s*\d+\s*\.?\s*', '', title).strip()
+
 REPO_ROOT = Path(__file__).resolve().parents[1]
 SOL_DIR = REPO_ROOT / "solutions"
 README = REPO_ROOT / "README.md"
@@ -47,9 +54,11 @@ def parse_metadata(path: Path) -> Dict[str, str]:
                 if m:
                     key = m.group(1).title()
                     val = m.group(2).strip()
+                    
+                    if key == "Title":
+                        val = clean_title(val)
                     # Normalize comma-separated tags
                     if key == "Tags":
-                        # standardize to "Tag1, Tag2"
                         parts = [t.strip() for t in re.split(r"[,/;]", val) if t.strip()]
                         val = ", ".join(parts)
                     meta[key] = val
@@ -72,7 +81,7 @@ def build_table_rows() -> List[str]:
             # Ignore unknown file naming
             continue
         meta = parse_metadata(p)
-        title = meta["Title"] or slug.replace("-", " ").title()
+        title = clean_title(meta["Title"] or slug.replace("-", " ").title())
         diff = meta["Difficulty"] or "-"
         tags = meta["Tags"] or "-"
         time_c = meta["Time"] or "-"

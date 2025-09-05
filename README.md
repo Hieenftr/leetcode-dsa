@@ -19,8 +19,8 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 
 | # | Title | Difficulty | Tags | Solution | Time | Space |
 |---|------|------------|------|---------|------|-------|
-| 20 | 20. Valid Parentheses | Easy | Stack, String | [lc_0020_valid_parentheses.py](solutions/s01_stack/lc_0020_valid_parentheses.py) | O(n) | O(n) |
-| 394 | 394. Decode String | Medium | Stack, String | [lc_0394_decode_string.py](solutions/s02_strings/lc_0394_decode_string.py) | O(n) | O(n) |
+| 20 | Valid Parentheses | Easy | Stack, String | [lc_0020_valid_parentheses.py](solutions/s01_stack/lc_0020_valid_parentheses.py) | O(n) | O(n) |
+| 394 | Decode String | Medium | Stack, String | [lc_0394_decode_string.py](solutions/s02_strings/lc_0394_decode_string.py) | O(n) | O(n) |
 
 <!-- INDEX:END -->
 
