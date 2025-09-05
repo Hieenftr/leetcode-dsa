@@ -14,13 +14,15 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 
 
 ## Index
-> Will be auto-generated later by `tools/build_index.py`.
+
+<!-- INDEX:START -->
 
 | # | Title | Difficulty | Tags | Solution | Time | Space |
-|---|-------|------------|------|----------|------|-------|
-| 20 | Valid Parentheses | Easy | Stack, String | [solution.py](solutions/stack/_0020_valid_parentheses/solution.py) | O(n) | O(n) |
-| 394 | Decode String | Medium | Stack, String | [solution.py](solutions/strings/_0394_decode_string/solution.py) | O(n) | O(n) |
+|---|------|------------|------|---------|------|-------|
+| 20 | 20. Valid Parentheses | Easy | Stack, String | [lc_0020_valid_parentheses.py](solutions/s01_stack/lc_0020_valid_parentheses.py) | O(n) | O(n) |
+| 394 | 394. Decode String | Medium | Stack, String | [lc_0394_decode_string.py](solutions/s02_strings/lc_0394_decode_string.py) | O(n) | O(n) |
 
+<!-- INDEX:END -->
 
 ## Conventions
 - Folder name: `XXXX-kebab-title` (e.g., `0394-decode-string`)
