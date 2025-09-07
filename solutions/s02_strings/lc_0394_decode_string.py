@@ -36,3 +36,17 @@ class Solution:
                 cur_str.append(ch)
 
         return "".join(cur_str)
+
+
+if __name__ == "__main__":
+    sol = Solution()
+
+    assert sol.decodeString("3[a]2[bc]") == "aaabcbc"
+    assert sol.decodeString("3[a2[c]]") == "accaccacc"
+    assert sol.decodeString("2[abc]3[cd]ef") == "abcabccdcdcdef"
+    assert sol.decodeString("abc") == "abc"           
+    assert sol.decodeString("10[a]") == "aaaaaaaaaa"  
+    assert sol.decodeString("12[xy]") == "xy" * 12
+    assert sol.decodeString("") == ""              
+
+    print("Quick tests passed")
