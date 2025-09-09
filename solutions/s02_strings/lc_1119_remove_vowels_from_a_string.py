@@ -1,6 +1,6 @@
 # Title: 1119. Remove Vowels from a String
 # Difficulty: Easy
-# Tags: String, Two Pointers
+# Tags: String
 # Link: https://leetcode.com/problems/remove-vowels-from-a-string/
 # Time: O(n)
 # Space: O(n)
