@@ -19,6 +19,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 
 | # | Title | Difficulty | Tags | Solution | Time | Space |
 |---|------|------------|------|---------|------|-------|
+| 13 | Roman to Integer | Easy | String | [lc_0013_roman_to_integer.py](solutions/s02_strings/lc_0013_roman_to_integer.py) | O(n) | O(1) |
 | 20 | Valid Parentheses | Easy | Stack, String | [lc_0020_valid_parentheses.py](solutions/s01_stack/lc_0020_valid_parentheses.py) | O(n) | O(n) |
 | 125 | Valid Palindrome | Easy | String | [lc_0125_valid_palindrome.py](solutions/s02_strings/lc_0125_valid_palindrome.py) | O(n) | O(1) |
 | 243 | Shortest Word Distance | Easy | Array, String | [lc_0243_shortest_word_distance.py](solutions/s02_strings/lc_0243_shortest_word_distance.py) | O(n) | O(1) |
