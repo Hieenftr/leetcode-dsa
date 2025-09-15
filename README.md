@@ -25,6 +25,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 48 | Rotate Image | Medium | Array, Matrix | [lc_0048_rotate_image.py](solutions/s03_array/lc_0048_rotate_image.py) | O(n^2) | O(1) |
 | 125 | Valid Palindrome | Easy | String | [lc_0125_valid_palindrome.py](solutions/s02_strings/lc_0125_valid_palindrome.py) | O(n) | O(1) |
 | 243 | Shortest Word Distance | Easy | Array, String | [lc_0243_shortest_word_distance.py](solutions/s02_strings/lc_0243_shortest_word_distance.py) | O(n) | O(1) |
+| 268 | Missing Number | Easy | Array | [lc_0268_missing_number.py](solutions/s03_array/lc_0268_missing_number.py) | O(n) | O(1) |
 | 394 | Decode String | Medium | Stack, String | [lc_0394_decode_string.py](solutions/s02_strings/lc_0394_decode_string.py) | O(n) | O(n) |
 | 442 | Find All Duplicates in an Array | Medium | Array | [lc_0442_find_all_duplicates_in_a_array.py](solutions/s03_array/lc_0442_find_all_duplicates_in_a_array.py) | O(n) | O(1) |
 | 709 | To Lower Case | Easy | String | [lc_0709_to_lower_case.py](solutions/s02_strings/lc_0709_to_lower_case.py) | O(n) | O(n) |
