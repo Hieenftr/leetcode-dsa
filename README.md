@@ -40,6 +40,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 1324 | Print Words Vertically | Medium | String | [lc_1324_print_words_vertically.py](solutions/s03_array/lc_1324_print_words_vertically.py) | O(n * m) where n=#words, m=max word length | O(n * m) |
 | 1347 | Minimum Number of Steps to Make Two Strings Anagram | Medium | String | [lc_1347_min_steps_anagram.py](solutions/s02_strings/lc_1347_min_steps_anagram.py) | O(n) | O(1)   # since only lowercase English letters |
 | 1566 | Detect Pattern of Length M Repeated K or More Times | Easy | String | [lc_1566_detect_pattern_repeated_k.py](solutions/s02_strings/lc_1566_detect_pattern_repeated_k.py) | O(n) | O(1) |
+| 1574 | Matrix Diagonal Sum | Easy | Array | [lc_1574_matrix_diagonal_sum.py](solutions/s03_array/lc_1574_matrix_diagonal_sum.py) | O(n) | O(1) |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | String, Stack | [lc_1614_maximum_nesting_depth.py](solutions/s02_strings/lc_1614_maximum_nesting_depth.py) | O(n) | O(1) |
 
 <!-- INDEX:END -->
