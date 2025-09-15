@@ -30,6 +30,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 442 | Find All Duplicates in an Array | Medium | Array | [lc_0442_find_all_duplicates_in_a_array.py](solutions/s03_array/lc_0442_find_all_duplicates_in_a_array.py) | O(n) | O(1) |
 | 709 | To Lower Case | Easy | String | [lc_0709_to_lower_case.py](solutions/s02_strings/lc_0709_to_lower_case.py) | O(n) | O(n) |
 | 844 | Backspace String Compare | Easy | String | [lc_0844_backspace_string_compare.py](solutions/s02_strings/lc_0844_backspace_string_compare.py) | O(n) | O(n) |
+| 896 | Monotonic Array | Easy | Array | [lc_0896_monotonic_array.py](solutions/s03_array/lc_0896_monotonic_array.py) | O(n) | O(1) |
 | 925 | Long Pressed Name | Easy | String, Two Pointers | [lc_0925_long_pressed_name.py](solutions/s02_strings/lc_0925_long_pressed_name.py) | O(n) | O(1) |
 | 1108 | Defanging an IP Address | Easy | String | [lc_1108_defanging_ip.py](solutions/s02_strings/lc_1108_defanging_ip.py) | O(n) | O(n) |
 | 1119 | Remove Vowels from a String | Easy | String | [lc_1119_remove_vowels_from_a_string.py](solutions/s02_strings/lc_1119_remove_vowels_from_a_string.py) | O(n) | O(n) |
