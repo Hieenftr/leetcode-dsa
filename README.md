@@ -39,6 +39,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 1119 | Remove Vowels from a String | Easy | String | [lc_1119_remove_vowels_from_a_string.py](solutions/s02_strings/lc_1119_remove_vowels_from_a_string.py) | O(n) | O(n) |
 | 1221 | Split a String in Balanced Strings | Easy | String | [lc_1221_split_a_string_in_balanced_strings.py](solutions/s02_strings/lc_1221_split_a_string_in_balanced_strings.py) | O(n) | O(1) |
 | 1247 | Minimum Swap to Make Strings Equal | Medium | String | [lc_1247_min_swaps_make_strings_equal.py](solutions/s02_strings/lc_1247_min_swaps_make_strings_equal.py) | O(n) | O(1) |
+| 1248 | Count Number of Nice Subarrays | Medium | Array | [lc_1248_count_number_of_nice_subarrays.py](solutions/s03_array/lc_1248_count_number_of_nice_subarrays.py) | O(n) | O(1) |
 | 1324 | Print Words Vertically | Medium | String | [lc_1324_print_words_vertically.py](solutions/s03_array/lc_1324_print_words_vertically.py) | O(n * m) where n=#words, m=max word length | O(n * m) |
 | 1347 | Minimum Number of Steps to Make Two Strings Anagram | Medium | String | [lc_1347_min_steps_anagram.py](solutions/s02_strings/lc_1347_min_steps_anagram.py) | O(n) | O(1)   # since only lowercase English letters |
 | 1566 | Detect Pattern of Length M Repeated K or More Times | Easy | String | [lc_1566_detect_pattern_repeated_k.py](solutions/s02_strings/lc_1566_detect_pattern_repeated_k.py) | O(n) | O(1) |
