@@ -46,6 +46,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 1566 | Detect Pattern of Length M Repeated K or More Times | Easy | String | [lc_1566_detect_pattern_repeated_k.py](solutions/s02_strings/lc_1566_detect_pattern_repeated_k.py) | O(n) | O(1) |
 | 1574 | Matrix Diagonal Sum | Easy | Array | [lc_1574_matrix_diagonal_sum.py](solutions/s03_array/lc_1574_matrix_diagonal_sum.py) | O(n) | O(1) |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | String, Stack | [lc_1614_maximum_nesting_depth.py](solutions/s02_strings/lc_1614_maximum_nesting_depth.py) | O(n) | O(1) |
+| 1672 | Richest Customer Wealth | Easy | Array | [lc_1672_richest_customer_wealth.py](solutions/s03_array/lc_1672_richest_customer_wealth.py) | O(m*n) | O(1) |
 
 <!-- INDEX:END -->
 
