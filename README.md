@@ -34,8 +34,10 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 448 | Find All Numbers Disappeared in an Array | Easy | Array | [lc_0448_find_all_numbers_disappeared_in_an_array.py](solutions/s03_array/lc_0448_find_all_numbers_disappeared_in_an_array.py) | O(n) | O(1) |
 | 709 | To Lower Case | Easy | String | [lc_0709_to_lower_case.py](solutions/s02_strings/lc_0709_to_lower_case.py) | O(n) | O(n) |
 | 844 | Backspace String Compare | Easy | String | [lc_0844_backspace_string_compare.py](solutions/s02_strings/lc_0844_backspace_string_compare.py) | O(n) | O(n) |
+| 845 | Longest Mountain in Array | Medium | Two Pointers | [lc_0845_longest_mountain_in_array.py](solutions/s04_two-pointers/lc_0845_longest_mountain_in_array.py) | O(n) | O(1) |
 | 896 | Monotonic Array | Easy | Array | [lc_0896_monotonic_array.py](solutions/s03_array/lc_0896_monotonic_array.py) | O(n) | O(1) |
 | 925 | Long Pressed Name | Easy | String, Two Pointers | [lc_0925_long_pressed_name.py](solutions/s02_strings/lc_0925_long_pressed_name.py) | O(n) | O(1) |
+| 1004 | Max Consecutive Ones III | Medium | Two Pointers, Sliding Window | [lc_1004_max_consecutive_ones_III.py](solutions/s04_two-pointers/lc_1004_max_consecutive_ones_III.py) | O(n) | O(1) |
 | 1051 | Height Checker | Easy | Array | [lc_1051_height_checker.py](solutions/s03_array/lc_1051_height_checker.py) | O(nlogn) | O(n) |
 | 1108 | Defanging an IP Address | Easy | String | [lc_1108_defanging_ip.py](solutions/s02_strings/lc_1108_defanging_ip.py) | O(n) | O(n) |
 | 1119 | Remove Vowels from a String | Easy | String | [lc_1119_remove_vowels_from_a_string.py](solutions/s02_strings/lc_1119_remove_vowels_from_a_string.py) | O(n) | O(n) |
