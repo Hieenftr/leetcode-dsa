@@ -27,6 +27,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 238 | Product of Array Except Self | Medium | Array | [lc_0238_product_of_array_except_self.py](solutions/s03_array/lc_0238_product_of_array_except_self.py) | O(n) | O(1) |
 | 243 | Shortest Word Distance | Easy | Array, String | [lc_0243_shortest_word_distance.py](solutions/s02_strings/lc_0243_shortest_word_distance.py) | O(n) | O(1) |
 | 268 | Missing Number | Easy | Array | [lc_0268_missing_number.py](solutions/s03_array/lc_0268_missing_number.py) | O(n) | O(1) |
+| 299 | Bulls and Cows (Array Version) | Medium | String, Array | [lc_0299_bulls_and_cows.py](solutions/s03_array/lc_0299_bulls_and_cows.py) | O(n) | O(1) |
 | 394 | Decode String | Medium | Stack, String | [lc_0394_decode_string.py](solutions/s02_strings/lc_0394_decode_string.py) | O(n) | O(n) |
 | 442 | Find All Duplicates in an Array | Medium | Array | [lc_0442_find_all_duplicates_in_a_array.py](solutions/s03_array/lc_0442_find_all_duplicates_in_a_array.py) | O(n) | O(1) |
 | 448 | Find All Numbers Disappeared in an Array | Easy | Array | [lc_0448_find_all_numbers_disappeared_in_an_array.py](solutions/s03_array/lc_0448_find_all_numbers_disappeared_in_an_array.py) | O(n) | O(1) |
