@@ -24,6 +24,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 20 | Valid Parentheses | Easy | Stack, String | [lc_0020_valid_parentheses.py](solutions/s01_stack/lc_0020_valid_parentheses.py) | O(n) | O(n) |
 | 48 | Rotate Image | Medium | Array, Matrix | [lc_0048_rotate_image.py](solutions/s03_array/lc_0048_rotate_image.py) | O(n^2) | O(1) |
 | 125 | Valid Palindrome | Easy | String | [lc_0125_valid_palindrome.py](solutions/s02_strings/lc_0125_valid_palindrome.py) | O(n) | O(1) |
+| 238 | Product of Array Except Self | Medium | Array | [lc_0238_product_of_array_except_self.py](solutions/s03_array/lc_0238_product_of_array_except_self.py) | O(n) | O(1) |
 | 243 | Shortest Word Distance | Easy | Array, String | [lc_0243_shortest_word_distance.py](solutions/s02_strings/lc_0243_shortest_word_distance.py) | O(n) | O(1) |
 | 268 | Missing Number | Easy | Array | [lc_0268_missing_number.py](solutions/s03_array/lc_0268_missing_number.py) | O(n) | O(1) |
 | 394 | Decode String | Medium | Stack, String | [lc_0394_decode_string.py](solutions/s02_strings/lc_0394_decode_string.py) | O(n) | O(n) |
