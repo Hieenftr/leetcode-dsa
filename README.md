@@ -44,6 +44,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 1108 | Defanging an IP Address | Easy | String | [lc_1108_defanging_ip.py](solutions/s02_strings/lc_1108_defanging_ip.py) | O(n) | O(n) |
 | 1119 | Remove Vowels from a String | Easy | String | [lc_1119_remove_vowels_from_a_string.py](solutions/s02_strings/lc_1119_remove_vowels_from_a_string.py) | O(n) | O(n) |
 | 1221 | Split a String in Balanced Strings | Easy | String | [lc_1221_split_a_string_in_balanced_strings.py](solutions/s02_strings/lc_1221_split_a_string_in_balanced_strings.py) | O(n) | O(1) |
+| 1234 | Replace the Substring for Balanced String | Medium | Two Pointers, Sliding Window | [lc_1234_replace_substring_for_balanced_string.py](solutions/s04_two-pointers/lc_1234_replace_substring_for_balanced_string.py) | O(n) | O(1) |
 | 1247 | Minimum Swap to Make Strings Equal | Medium | String | [lc_1247_min_swaps_make_strings_equal.py](solutions/s02_strings/lc_1247_min_swaps_make_strings_equal.py) | O(n) | O(1) |
 | 1248 | Count Number of Nice Subarrays | Medium | Array | [lc_1248_count_number_of_nice_subarrays.py](solutions/s03_array/lc_1248_count_number_of_nice_subarrays.py) | O(n) | O(1) |
 | 1324 | Print Words Vertically | Medium | String | [lc_1324_print_words_vertically.py](solutions/s03_array/lc_1324_print_words_vertically.py) | O(n * m) where n=#words, m=max word length | O(n * m) |
