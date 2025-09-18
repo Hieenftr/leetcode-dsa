@@ -44,6 +44,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 739 | Daily Temperatures | Medium | Monotonic Stack | [lc_0739_daily_tempperatures.py](solutions/s05_stack/lc_0739_daily_tempperatures.py) | O(n) | O(n) |
 | 844 | Backspace String Compare | Easy | String | [lc_0844_backspace_string_compare.py](solutions/s02_strings/lc_0844_backspace_string_compare.py) | O(n) | O(n) |
 | 845 | Longest Mountain in Array | Medium | Two Pointers | [lc_0845_longest_mountain_in_array.py](solutions/s04_two-pointers/lc_0845_longest_mountain_in_array.py) | O(n) | O(1) |
+| 856 | Score of Parentheses | Medium | Stack | [lc_0856_score_of_parentheses.py](solutions/s05_stack/lc_0856_score_of_parentheses.py) | O(n) | O(n) |
 | 896 | Monotonic Array | Easy | Array | [lc_0896_monotonic_array.py](solutions/s03_array/lc_0896_monotonic_array.py) | O(n) | O(1) |
 | 925 | Long Pressed Name | Easy | String, Two Pointers | [lc_0925_long_pressed_name.py](solutions/s02_strings/lc_0925_long_pressed_name.py) | O(n) | O(1) |
 | 1004 | Max Consecutive Ones III | Medium | Two Pointers, Sliding Window | [lc_1004_max_consecutive_ones_III.py](solutions/s04_two-pointers/lc_1004_max_consecutive_ones_III.py) | O(n) | O(1) |
