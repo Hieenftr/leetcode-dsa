@@ -63,6 +63,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 1324 | Print Words Vertically | Medium | String | [lc_1324_print_words_vertically.py](solutions/s03_array/lc_1324_print_words_vertically.py) | O(n * m) where n=#words, m=max word length | O(n * m) |
 | 1333 | Filter Restaurants by Vegan-Friendly, Price and Distance | Medium | Sort | [lc_1333_filter_restaurants_by_vegan_friendly_price_distance.py](solutions/s06_sort/lc_1333_filter_restaurants_by_vegan_friendly_price_distance.py) | O(nlogn) | O(n) |
 | 1347 | Minimum Number of Steps to Make Two Strings Anagram | Medium | String | [lc_1347_min_steps_anagram.py](solutions/s02_strings/lc_1347_min_steps_anagram.py) | O(n) | O(1)   # since only lowercase English letters |
+| 1370 | Increasing Decreasing String | Easy | Sort | [lc_1370_inscreasing_decreasing_string.py](solutions/s06_sort/lc_1370_inscreasing_decreasing_string.py) | O(n) | O(1) |
 | 1441 | Build an Array With Stack Operations | Easy | Stack | [lc_1441_build_an_array_with_stack_operations.py](solutions/s05_stack/lc_1441_build_an_array_with_stack_operations.py) | O(max(target)) | O(len(target)) |
 | 1502 | Can Make Arithmetic Progression From Sequence | Easy | Sorting | [lc_1502_can_make_arithmetic_progression_from_sequence.py](solutions/s06_sort/lc_1502_can_make_arithmetic_progression_from_sequence.py) | O(nlogn) | O(1) |
 | 1528 | Shuffle String (Sort version) | Easy | Sort | [lc_1528_shuffle_string.py](solutions/s06_sort/lc_1528_shuffle_string.py) | O(nlogn) | O(n) |
