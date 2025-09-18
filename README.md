@@ -39,6 +39,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 443 | String Compression | Medium | Two Pointers | [lc_0443_string_compression.py](solutions/s05_stack/lc_0443_string_compression.py) | O(n) | O(1) |
 | 448 | Find All Numbers Disappeared in an Array | Easy | Array | [lc_0448_find_all_numbers_disappeared_in_an_array.py](solutions/s03_array/lc_0448_find_all_numbers_disappeared_in_an_array.py) | O(n) | O(1) |
 | 560 | Subarray Sum Equals K | Medium | Array, Prefix Sum, HashMap | [lc_0560_subarray_sum_equals_k.py](solutions/s04_two-pointers/lc_0560_subarray_sum_equals_k.py) | O(n) | O(n) |
+| 678 | Valid Parenthesis String (Stack approach) | Medium | Stack | [lc_0678_valid_parenthesis.py](solutions/s05_stack/lc_0678_valid_parenthesis.py) | O(n) | O(n) |
 | 709 | To Lower Case | Easy | String | [lc_0709_to_lower_case.py](solutions/s02_strings/lc_0709_to_lower_case.py) | O(n) | O(n) |
 | 739 | Daily Temperatures | Medium | Monotonic Stack | [lc_0739_daily_tempperatures.py](solutions/s05_stack/lc_0739_daily_tempperatures.py) | O(n) | O(n) |
 | 844 | Backspace String Compare | Easy | String | [lc_0844_backspace_string_compare.py](solutions/s02_strings/lc_0844_backspace_string_compare.py) | O(n) | O(n) |
