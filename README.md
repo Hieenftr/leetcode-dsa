@@ -47,6 +47,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 856 | Score of Parentheses | Medium | Stack | [lc_0856_score_of_parentheses.py](solutions/s05_stack/lc_0856_score_of_parentheses.py) | O(n) | O(n) |
 | 896 | Monotonic Array | Easy | Array | [lc_0896_monotonic_array.py](solutions/s03_array/lc_0896_monotonic_array.py) | O(n) | O(1) |
 | 925 | Long Pressed Name | Easy | String, Two Pointers | [lc_0925_long_pressed_name.py](solutions/s02_strings/lc_0925_long_pressed_name.py) | O(n) | O(1) |
+| 946 | Validate Stack Sequences | Medium | Stack | [lc_0946_validate_stack_sequences.py](solutions/s05_stack/lc_0946_validate_stack_sequences.py) | O(n) | O(n) |
 | 1004 | Max Consecutive Ones III | Medium | Two Pointers, Sliding Window | [lc_1004_max_consecutive_ones_III.py](solutions/s04_two-pointers/lc_1004_max_consecutive_ones_III.py) | O(n) | O(1) |
 | 1047 | Remove All Adjacent Duplicates In String | Easy | Stack | [lc_1047_remove_all_adjacent_duplicates_in_string.py](solutions/s05_stack/lc_1047_remove_all_adjacent_duplicates_in_string.py) | O(n) | O(n) |
 | 1051 | Height Checker | Easy | Array | [lc_1051_height_checker.py](solutions/s03_array/lc_1051_height_checker.py) | O(nlogn) | O(n) |
