@@ -47,6 +47,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 845 | Longest Mountain in Array | Medium | Two Pointers | [lc_0845_longest_mountain_in_array.py](solutions/s04_two-pointers/lc_0845_longest_mountain_in_array.py) | O(n) | O(1) |
 | 853 | Car Fleet | Medium | Sort | [lc_0853_car_fleet.py](solutions/s06_sort/lc_0853_car_fleet.py) | O(nlogn) | O(n) |
 | 856 | Score of Parentheses | Medium | Stack | [lc_0856_score_of_parentheses.py](solutions/s05_stack/lc_0856_score_of_parentheses.py) | O(n) | O(n) |
+| 860 | Lemonade Change | Easy | Greedy | [lc_0860_lemonade_change.py](solutions/s07_greedy/lc_0860_lemonade_change.py) | O(n) | O(1) |
 | 896 | Monotonic Array | Easy | Array | [lc_0896_monotonic_array.py](solutions/s03_array/lc_0896_monotonic_array.py) | O(n) | O(1) |
 | 925 | Long Pressed Name | Easy | String, Two Pointers | [lc_0925_long_pressed_name.py](solutions/s02_strings/lc_0925_long_pressed_name.py) | O(n) | O(1) |
 | 946 | Validate Stack Sequences | Medium | Stack | [lc_0946_validate_stack_sequences.py](solutions/s05_stack/lc_0946_validate_stack_sequences.py) | O(n) | O(n) |
