@@ -52,6 +52,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 856 | Score of Parentheses | Medium | Stack | [lc_0856_score_of_parentheses.py](solutions/s05_stack/lc_0856_score_of_parentheses.py) | O(n) | O(n) |
 | 860 | Lemonade Change | Easy | Greedy | [lc_0860_lemonade_change.py](solutions/s07_greedy/lc_0860_lemonade_change.py) | O(n) | O(1) |
 | 896 | Monotonic Array | Easy | Array | [lc_0896_monotonic_array.py](solutions/s03_array/lc_0896_monotonic_array.py) | O(n) | O(1) |
+| 921 | Minimum Add to Make Parentheses Valid | Medium | Greedy | [lc_0921_minimum_add_to_make_parentheses_valid.py](solutions/s07_greedy/lc_0921_minimum_add_to_make_parentheses_valid.py) | O(n) | O(1) |
 | 925 | Long Pressed Name | Easy | String, Two Pointers | [lc_0925_long_pressed_name.py](solutions/s02_strings/lc_0925_long_pressed_name.py) | O(n) | O(1) |
 | 946 | Validate Stack Sequences | Medium | Stack | [lc_0946_validate_stack_sequences.py](solutions/s05_stack/lc_0946_validate_stack_sequences.py) | O(n) | O(n) |
 | 1003 | Check If Word Is Valid After Substitutions | Medium | Stack | [lc_1003_check_if_word_is_valid_after_substitutions.py](solutions/s05_stack/lc_1003_check_if_word_is_valid_after_substitutions.py) | O(n) | O(n) |
