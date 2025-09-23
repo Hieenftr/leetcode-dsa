@@ -71,6 +71,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 1276 | Number of Burgers with No Waste of Ingredients | Medium | Greedy | [lc_1276_number_burgers_with_no_waste_ingredients.py](solutions/s07_greedy/lc_1276_number_burgers_with_no_waste_ingredients.py) | O(1) | O(1) |
 | 1324 | Print Words Vertically | Medium | String | [lc_1324_print_words_vertically.py](solutions/s03_array/lc_1324_print_words_vertically.py) | O(n * m) where n=#words, m=max word length | O(n * m) |
 | 1333 | Filter Restaurants by Vegan-Friendly, Price and Distance | Medium | Sort | [lc_1333_filter_restaurants_by_vegan_friendly_price_distance.py](solutions/s06_sort/lc_1333_filter_restaurants_by_vegan_friendly_price_distance.py) | O(nlogn) | O(n) |
+| 1338 | Reduce Array Size to The Half | Medium | Greedy | [lc_1338_reduce_array_size_to_the_half.py](solutions/s07_greedy/lc_1338_reduce_array_size_to_the_half.py) | O(nlogn) | O(n) |
 | 1347 | Minimum Number of Steps to Make Two Strings Anagram | Medium | String | [lc_1347_min_steps_anagram.py](solutions/s02_strings/lc_1347_min_steps_anagram.py) | O(n) | O(1)   # since only lowercase English letters |
 | 1370 | Increasing Decreasing String | Easy | Sort | [lc_1370_inscreasing_decreasing_string.py](solutions/s06_sort/lc_1370_inscreasing_decreasing_string.py) | O(n) | O(1) |
 | 1441 | Build an Array With Stack Operations | Easy | Stack | [lc_1441_build_an_array_with_stack_operations.py](solutions/s05_stack/lc_1441_build_an_array_with_stack_operations.py) | O(max(target)) | O(len(target)) |
