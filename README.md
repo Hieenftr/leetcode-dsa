@@ -70,6 +70,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 1370 | Increasing Decreasing String | Easy | Sort | [lc_1370_inscreasing_decreasing_string.py](solutions/s06_sort/lc_1370_inscreasing_decreasing_string.py) | O(n) | O(1) |
 | 1441 | Build an Array With Stack Operations | Easy | Stack | [lc_1441_build_an_array_with_stack_operations.py](solutions/s05_stack/lc_1441_build_an_array_with_stack_operations.py) | O(max(target)) | O(len(target)) |
 | 1502 | Can Make Arithmetic Progression From Sequence | Easy | Sorting | [lc_1502_can_make_arithmetic_progression_from_sequence.py](solutions/s06_sort/lc_1502_can_make_arithmetic_progression_from_sequence.py) | O(nlogn) | O(1) |
+| 1518 | Water Bottles | Easy | Greedy | [lc_1518_water_bottles.py](solutions/s07_greedy/lc_1518_water_bottles.py) | O(numBottles) | O(1) |
 | 1528 | Shuffle String (Sort version) | Easy | Sort | [lc_1528_shuffle_string.py](solutions/s06_sort/lc_1528_shuffle_string.py) | O(nlogn) | O(n) |
 | 1566 | Detect Pattern of Length M Repeated K or More Times | Easy | String | [lc_1566_detect_pattern_repeated_k.py](solutions/s02_strings/lc_1566_detect_pattern_repeated_k.py) | O(n) | O(1) |
 | 1574 | Matrix Diagonal Sum | Easy | Array | [lc_1574_matrix_diagonal_sum.py](solutions/s03_array/lc_1574_matrix_diagonal_sum.py) | O(n) | O(1) |
