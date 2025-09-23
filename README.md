@@ -26,6 +26,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 20 | Valid Parentheses | Easy | Stack, String | [lc_0020_valid_parentheses.py](solutions/s01_stack/lc_0020_valid_parentheses.py) | O(n) | O(n) |
 | 48 | Rotate Image | Medium | Array, Matrix | [lc_0048_rotate_image.py](solutions/s03_array/lc_0048_rotate_image.py) | O(n^2) | O(1) |
 | 88 | Merge Sorted Array | Easy | Two Pointers | [lc_0088_merge_sorted_array.py](solutions/s04_two-pointers/lc_0088_merge_sorted_array.py) | O(m+n) | O(1) |
+| 121 | Best Time to Buy and Sell Stock | Easy | Greedy | [lc_0121_best_time_to_buy_and_sell_stock.py](solutions/s07_greedy/lc_0121_best_time_to_buy_and_sell_stock.py) | O(n) | O(1) |
 | 125 | Valid Palindrome | Easy | String | [lc_0125_valid_palindrome.py](solutions/s02_strings/lc_0125_valid_palindrome.py) | O(n) | O(1) |
 | 238 | Product of Array Except Self | Medium | Array | [lc_0238_product_of_array_except_self.py](solutions/s03_array/lc_0238_product_of_array_except_self.py) | O(n) | O(1) |
 | 243 | Shortest Word Distance | Easy | Array, String | [lc_0243_shortest_word_distance.py](solutions/s02_strings/lc_0243_shortest_word_distance.py) | O(n) | O(1) |
