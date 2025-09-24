@@ -63,6 +63,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 1046 | Last Stone Weight | Easy | Heap | [lc_1046_last_stone_weight.py](solutions/s08_heap/lc_1046_last_stone_weight.py) | O(nlogn) | O(n) |
 | 1047 | Remove All Adjacent Duplicates In String | Easy | Stack | [lc_1047_remove_all_adjacent_duplicates_in_string.py](solutions/s05_stack/lc_1047_remove_all_adjacent_duplicates_in_string.py) | O(n) | O(n) |
 | 1051 | Height Checker | Easy | Array | [lc_1051_height_checker.py](solutions/s03_array/lc_1051_height_checker.py) | O(nlogn) | O(n) |
+| 1054 | Distant Barcodes | Medium | Greedy | [lc_1054_distant_barcodes.py](solutions/s08_heap/lc_1054_distant_barcodes.py) | O(nlogn) | O(n) |
 | 1108 | Defanging an IP Address | Easy | String | [lc_1108_defanging_ip.py](solutions/s02_strings/lc_1108_defanging_ip.py) | O(n) | O(n) |
 | 1119 | Remove Vowels from a String | Easy | String | [lc_1119_remove_vowels_from_a_string.py](solutions/s02_strings/lc_1119_remove_vowels_from_a_string.py) | O(n) | O(n) |
 | 1221 | Split a String in Balanced Strings | Easy | String | [lc_1221_split_a_string_in_balanced_strings.py](solutions/s02_strings/lc_1221_split_a_string_in_balanced_strings.py) | O(n) | O(1) |
