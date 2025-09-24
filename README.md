@@ -29,6 +29,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 121 | Best Time to Buy and Sell Stock | Easy | Greedy | [lc_0121_best_time_to_buy_and_sell_stock.py](solutions/s07_greedy/lc_0121_best_time_to_buy_and_sell_stock.py) | O(n) | O(1) |
 | 122 | Best Time to Buy and Sell Stock II | Medium | Greedy | [lc_0122_best_time_to_buy_and_sell_stock_II.py](solutions/s07_greedy/lc_0122_best_time_to_buy_and_sell_stock_II.py) | O(n) | O(1) |
 | 125 | Valid Palindrome | Easy | String | [lc_0125_valid_palindrome.py](solutions/s02_strings/lc_0125_valid_palindrome.py) | O(n) | O(1) |
+| 215 | Kth Largest Element in an Array | Medium | Heap | [lc_0215_largest_element_in_array.py](solutions/s08_heap/lc_0215_largest_element_in_array.py) | O(nlogk) | O(k) |
 | 238 | Product of Array Except Self | Medium | Array | [lc_0238_product_of_array_except_self.py](solutions/s03_array/lc_0238_product_of_array_except_self.py) | O(n) | O(1) |
 | 243 | Shortest Word Distance | Easy | Array, String | [lc_0243_shortest_word_distance.py](solutions/s02_strings/lc_0243_shortest_word_distance.py) | O(n) | O(1) |
 | 268 | Missing Number | Easy | Array | [lc_0268_missing_number.py](solutions/s03_array/lc_0268_missing_number.py) | O(n) | O(1) |
