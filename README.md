@@ -59,6 +59,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 1003 | Check If Word Is Valid After Substitutions | Medium | Stack | [lc_1003_check_if_word_is_valid_after_substitutions.py](solutions/s05_stack/lc_1003_check_if_word_is_valid_after_substitutions.py) | O(n) | O(n) |
 | 1004 | Max Consecutive Ones III | Medium | Two Pointers, Sliding Window | [lc_1004_max_consecutive_ones_III.py](solutions/s04_two-pointers/lc_1004_max_consecutive_ones_III.py) | O(n) | O(1) |
 | 1029 | Two City Scheduling | Medium | Greedy | [lc_1029_two_city.py](solutions/s07_greedy/lc_1029_two_city.py) | O(nlogn) | O(1) |
+| 1046 | Last Stone Weight | Easy | Heap | [lc_1046_last_stone_weight.py](solutions/s08_heap/lc_1046_last_stone_weight.py) | O(nlogn) | O(n) |
 | 1047 | Remove All Adjacent Duplicates In String | Easy | Stack | [lc_1047_remove_all_adjacent_duplicates_in_string.py](solutions/s05_stack/lc_1047_remove_all_adjacent_duplicates_in_string.py) | O(n) | O(n) |
 | 1051 | Height Checker | Easy | Array | [lc_1051_height_checker.py](solutions/s03_array/lc_1051_height_checker.py) | O(nlogn) | O(n) |
 | 1108 | Defanging an IP Address | Easy | String | [lc_1108_defanging_ip.py](solutions/s02_strings/lc_1108_defanging_ip.py) | O(n) | O(n) |
