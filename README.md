@@ -29,6 +29,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 121 | Best Time to Buy and Sell Stock | Easy | Greedy | [lc_0121_best_time_to_buy_and_sell_stock.py](solutions/s07_greedy/lc_0121_best_time_to_buy_and_sell_stock.py) | O(n) | O(1) |
 | 122 | Best Time to Buy and Sell Stock II | Medium | Greedy | [lc_0122_best_time_to_buy_and_sell_stock_II.py](solutions/s07_greedy/lc_0122_best_time_to_buy_and_sell_stock_II.py) | O(n) | O(1) |
 | 125 | Valid Palindrome | Easy | String | [lc_0125_valid_palindrome.py](solutions/s02_strings/lc_0125_valid_palindrome.py) | O(n) | O(1) |
+| 206 | Reverse Linked List | Easy | Linked List | [lc_0206_reverse_linked_list.py](solutions/s09_linkedlist/lc_0206_reverse_linked_list.py) | O(n) | O(n) |
 | 215 | Kth Largest Element in an Array | Medium | Heap | [lc_0215_largest_element_in_array.py](solutions/s08_heap/lc_0215_largest_element_in_array.py) | O(nlogk) | O(k) |
 | 237 | Delete Node in a Linked List | Medium | Linked List | [lc_0237_delete_node_in_a_linked_list.py](solutions/s09_linkedlist/lc_0237_delete_node_in_a_linked_list.py) | O(1) | O(1) |
 | 238 | Product of Array Except Self | Medium | Array | [lc_0238_product_of_array_except_self.py](solutions/s03_array/lc_0238_product_of_array_except_self.py) | O(n) | O(1) |
