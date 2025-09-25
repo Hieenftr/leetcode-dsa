@@ -55,6 +55,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 853 | Car Fleet | Medium | Sort | [lc_0853_car_fleet.py](solutions/s06_sort/lc_0853_car_fleet.py) | O(nlogn) | O(n) |
 | 856 | Score of Parentheses | Medium | Stack | [lc_0856_score_of_parentheses.py](solutions/s05_stack/lc_0856_score_of_parentheses.py) | O(n) | O(n) |
 | 860 | Lemonade Change | Easy | Greedy | [lc_0860_lemonade_change.py](solutions/s07_greedy/lc_0860_lemonade_change.py) | O(n) | O(1) |
+| 876 | Middle of the Linked List | Easy | Linked List | [lc_0876_middle_of_the_linkedlist.py](solutions/s09_linkedlist/lc_0876_middle_of_the_linkedlist.py) | O(n) | O(1) |
 | 896 | Monotonic Array | Easy | Array | [lc_0896_monotonic_array.py](solutions/s03_array/lc_0896_monotonic_array.py) | O(n) | O(1) |
 | 921 | Minimum Add to Make Parentheses Valid | Medium | Greedy | [lc_0921_minimum_add_to_make_parentheses_valid.py](solutions/s07_greedy/lc_0921_minimum_add_to_make_parentheses_valid.py) | O(n) | O(1) |
 | 925 | Long Pressed Name | Easy | String, Two Pointers | [lc_0925_long_pressed_name.py](solutions/s02_strings/lc_0925_long_pressed_name.py) | O(n) | O(1) |
