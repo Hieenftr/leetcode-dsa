@@ -31,6 +31,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 122 | Best Time to Buy and Sell Stock II | Medium | Greedy | [lc_0122_best_time_to_buy_and_sell_stock_II.py](solutions/s07_greedy/lc_0122_best_time_to_buy_and_sell_stock_II.py) | O(n) | O(1) |
 | 125 | Valid Palindrome | Easy | String | [lc_0125_valid_palindrome.py](solutions/s02_strings/lc_0125_valid_palindrome.py) | O(n) | O(1) |
 | 160 | Intersection of Two Linked Lists | Easy | Linked List | [lc_0160_intersection_of_two_linked_lists.py](solutions/s09_linkedlist/lc_0160_intersection_of_two_linked_lists.py) | O(n) | O(1) |
+| 200 | Number of Islands | Medium | Grid, BFS | [lc_0200_number_of_islands.py](solutions/s11_bfs/lc_0200_number_of_islands.py) | O(m*n) | O(m*n) |
 | 206 | Reverse Linked List | Easy | Linked List | [lc_0206_reverse_linked_list.py](solutions/s09_linkedlist/lc_0206_reverse_linked_list.py) | O(n) | O(n) |
 | 215 | Kth Largest Element in an Array | Medium | Heap | [lc_0215_largest_element_in_array.py](solutions/s08_heap/lc_0215_largest_element_in_array.py) | O(nlogk) | O(k) |
 | 234 | Palindrome Linked List | Easy | Linked List | [lc_0234_palidrome_linked_list.py](solutions/s09_linkedlist/lc_0234_palidrome_linked_list.py) | O(n) | O(1) |
