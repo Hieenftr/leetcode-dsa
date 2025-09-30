@@ -57,6 +57,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 659 | Split Array into Consecutive Subsequences | Medium | Heap | [lc_0659_solit_array_into_consecutive_subsequences.py](solutions/s08_heap/lc_0659_solit_array_into_consecutive_subsequences.py) | O(nlogn) | O(n) |
 | 678 | Valid Parenthesis String (Stack approach) | Medium | Stack | [lc_0678_valid_parenthesis.py](solutions/s05_stack/lc_0678_valid_parenthesis.py) | O(n) | O(n) |
 | 690 | Employee Importance | Medium | BFS | [lc_690_employee_importance.py](solutions/s11_bfs/lc_690_employee_importance.py) | O(n) | O(n) |
+| 695 | Max Area of Island | Medium | Grid, DFS | [lc_0695_max_area_of_islands.py](solutions/s12_dfs/lc_0695_max_area_of_islands.py) | O(m * n) | O(m * n) recursion stack |
 | 709 | To Lower Case | Easy | String | [lc_0709_to_lower_case.py](solutions/s02_strings/lc_0709_to_lower_case.py) | O(n) | O(n) |
 | 739 | Daily Temperatures | Medium | Monotonic Stack | [lc_0739_daily_tempperatures.py](solutions/s05_stack/lc_0739_daily_tempperatures.py) | O(n) | O(n) |
 | 844 | Backspace String Compare | Easy | String | [lc_0844_backspace_string_compare.py](solutions/s02_strings/lc_0844_backspace_string_compare.py) | O(n) | O(n) |
