@@ -35,6 +35,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 206 | Reverse Linked List | Easy | Linked List | [lc_0206_reverse_linked_list.py](solutions/s09_linkedlist/lc_0206_reverse_linked_list.py) | O(n) | O(n) |
 | 215 | Kth Largest Element in an Array | Medium | Heap | [lc_0215_largest_element_in_array.py](solutions/s08_heap/lc_0215_largest_element_in_array.py) | O(nlogk) | O(k) |
 | 234 | Palindrome Linked List | Easy | Linked List | [lc_0234_palidrome_linked_list.py](solutions/s09_linkedlist/lc_0234_palidrome_linked_list.py) | O(n) | O(1) |
+| 234 | Palindrome Linked List | Easy | Linked List, DFS | [lc_0234_palindrome_linked_list.py](solutions/s12_dfs/lc_0234_palindrome_linked_list.py) | O(n) | O(n) |
 | 237 | Delete Node in a Linked List | Medium | Linked List | [lc_0237_delete_node_in_a_linked_list.py](solutions/s09_linkedlist/lc_0237_delete_node_in_a_linked_list.py) | O(1) | O(1) |
 | 238 | Product of Array Except Self | Medium | Array | [lc_0238_product_of_array_except_self.py](solutions/s03_array/lc_0238_product_of_array_except_self.py) | O(n) | O(1) |
 | 243 | Shortest Word Distance | Easy | Array, String | [lc_0243_shortest_word_distance.py](solutions/s02_strings/lc_0243_shortest_word_distance.py) | O(n) | O(1) |
