@@ -31,6 +31,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 121 | Best Time to Buy and Sell Stock | Easy | Greedy | [lc_0121_best_time_to_buy_and_sell_stock.py](solutions/s07_greedy/lc_0121_best_time_to_buy_and_sell_stock.py) | O(n) | O(1) |
 | 122 | Best Time to Buy and Sell Stock II | Medium | Greedy | [lc_0122_best_time_to_buy_and_sell_stock_II.py](solutions/s07_greedy/lc_0122_best_time_to_buy_and_sell_stock_II.py) | O(n) | O(1) |
 | 125 | Valid Palindrome | Easy | String | [lc_0125_valid_palindrome.py](solutions/s02_strings/lc_0125_valid_palindrome.py) | O(n) | O(1) |
+| 130 | Surrounded Regions | Medium | DFS | [lc_0130_surrounded_regions.py](solutions/s12_dfs/lc_0130_surrounded_regions.py) | O(m*n) | O(m*n) |
 | 160 | Intersection of Two Linked Lists | Easy | Linked List | [lc_0160_intersection_of_two_linked_lists.py](solutions/s09_linkedlist/lc_0160_intersection_of_two_linked_lists.py) | O(n) | O(1) |
 | 200 | Number of Islands | Medium | Grid, BFS | [lc_0200_number_of_islands.py](solutions/s11_bfs/lc_0200_number_of_islands.py) | O(m*n) | O(m*n) |
 | 200 | Number of Islands | Medium | DFS | [lc_0200_number_of_islands.py](solutions/s12_dfs/lc_0200_number_of_islands.py) | O(m*n) | O(m*n) |
