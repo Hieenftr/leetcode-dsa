@@ -92,6 +92,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 1249 | Minimum Remove to Make Valid Parentheses | Medium | Stack | [lc_1249_minimum_remove_to_make_valid_parenthses.py](solutions/s05_stack/lc_1249_minimum_remove_to_make_valid_parenthses.py) | O(n) | O(n) |
 | 1254 | Number of Closed Islands | Medium | DFS | [lc_1254_number_of_closed_islands.py](solutions/s12_dfs/lc_1254_number_of_closed_islands.py) | O(m*n) | O(m*n) |
 | 1276 | Number of Burgers with No Waste of Ingredients | Medium | Greedy | [lc_1276_number_burgers_with_no_waste_ingredients.py](solutions/s07_greedy/lc_1276_number_burgers_with_no_waste_ingredients.py) | O(1) | O(1) |
+| 1306 | Jump Game III | Medium | DFS | [lc_1306_jump_game_III.py](solutions/s12_dfs/lc_1306_jump_game_III.py) | O(n) | O(n) |
 | 1324 | Print Words Vertically | Medium | String | [lc_1324_print_words_vertically.py](solutions/s03_array/lc_1324_print_words_vertically.py) | O(n * m) where n=#words, m=max word length | O(n * m) |
 | 1333 | Filter Restaurants by Vegan-Friendly, Price and Distance | Medium | Sort | [lc_1333_filter_restaurants_by_vegan_friendly_price_distance.py](solutions/s06_sort/lc_1333_filter_restaurants_by_vegan_friendly_price_distance.py) | O(nlogn) | O(n) |
 | 1338 | Reduce Array Size to The Half | Medium | Greedy | [lc_1338_reduce_array_size_to_the_half.py](solutions/s07_greedy/lc_1338_reduce_array_size_to_the_half.py) | O(nlogn) | O(n) |
