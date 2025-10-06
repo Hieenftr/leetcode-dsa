@@ -37,6 +37,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 200 | Number of Islands | Medium | DFS | [lc_0200_number_of_islands.py](solutions/s12_dfs/lc_0200_number_of_islands.py) | O(m*n) | O(m*n) |
 | 206 | Reverse Linked List | Easy | Linked List | [lc_0206_reverse_linked_list.py](solutions/s09_linkedlist/lc_0206_reverse_linked_list.py) | O(n) | O(n) |
 | 207 | Course Schedule | Medium | DFS | [lc_0207_course_schedule.py](solutions/s12_dfs/lc_0207_course_schedule.py) | O(v+e) | O(v+e) |
+| 210 | Course Schedule II | Medium | DFS | [lc_0210_course_schedule_II.py](solutions/s12_dfs/lc_0210_course_schedule_II.py) | O(v+e) | O(v+e) |
 | 215 | Kth Largest Element in an Array | Medium | Heap | [lc_0215_largest_element_in_array.py](solutions/s08_heap/lc_0215_largest_element_in_array.py) | O(nlogk) | O(k) |
 | 234 | Palindrome Linked List | Easy | Linked List | [lc_0234_palidrome_linked_list.py](solutions/s09_linkedlist/lc_0234_palidrome_linked_list.py) | O(n) | O(1) |
 | 234 | Palindrome Linked List | Easy | Linked List, DFS | [lc_0234_palindrome_linked_list.py](solutions/s12_dfs/lc_0234_palindrome_linked_list.py) | O(n) | O(n) |
