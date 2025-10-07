@@ -64,6 +64,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 709 | To Lower Case | Easy | String | [lc_0709_to_lower_case.py](solutions/s02_strings/lc_0709_to_lower_case.py) | O(n) | O(n) |
 | 739 | Daily Temperatures | Medium | Monotonic Stack | [lc_0739_daily_tempperatures.py](solutions/s05_stack/lc_0739_daily_tempperatures.py) | O(n) | O(n) |
 | 743 | Network Delay Time | Medium | Dijkstra | [lc_0743_network_delay_time.py](solutions/s13_dijkstra/lc_0743_network_delay_time.py) | O((e+v) log v) | O(e+v) |
+| 787 | Cheapest Flights Within K Stops | Medium | Dijkstra | [lc_0787_cheapest_flights_within_k_stops.py](solutions/s13_dijkstra/lc_0787_cheapest_flights_within_k_stops.py) | - | - |
 | 841 | Keys and Rooms | Medium | Graph, DFS | [lc_0841_keys_and_rooms.py](solutions/s12_dfs/lc_0841_keys_and_rooms.py) | O(n+e)   # n = number of rooms, e = number of keys | O(n) |
 | 844 | Backspace String Compare | Easy | String | [lc_0844_backspace_string_compare.py](solutions/s02_strings/lc_0844_backspace_string_compare.py) | O(n) | O(n) |
 | 845 | Longest Mountain in Array | Medium | Two Pointers | [lc_0845_longest_mountain_in_array.py](solutions/s04_two-pointers/lc_0845_longest_mountain_in_array.py) | O(n) | O(1) |
