@@ -89,6 +89,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 1108 | Defanging an IP Address | Easy | String | [lc_1108_defanging_ip.py](solutions/s02_strings/lc_1108_defanging_ip.py) | O(n) | O(n) |
 | 1119 | Remove Vowels from a String | Easy | String | [lc_1119_remove_vowels_from_a_string.py](solutions/s02_strings/lc_1119_remove_vowels_from_a_string.py) | O(n) | O(n) |
 | 1129 | Shortest Path with Alternating Colors | Medium | BFS | [lc_1129_shortest_path_with_alternating_colors.py](solutions/s11_bfs/lc_1129_shortest_path_with_alternating_colors.py) | O(n+r+b)   # r, b = number of red/blue edges | O(n+r+b) |
+| 1135 | Connecting Cities With Minimum Cost | Medium | Dijkstra | [lc_1135_connecting_cities_within_minimum_cost.py](solutions/s13_dijkstra/lc_1135_connecting_cities_within_minimum_cost.py) | O(eloge)  (heap operations dominate; e = len(connections)) | O(n+e) |
 | 1221 | Split a String in Balanced Strings | Easy | String | [lc_1221_split_a_string_in_balanced_strings.py](solutions/s02_strings/lc_1221_split_a_string_in_balanced_strings.py) | O(n) | O(1) |
 | 1234 | Replace the Substring for Balanced String | Medium | Two Pointers, Sliding Window | [lc_1234_replace_substring_for_balanced_string.py](solutions/s04_two-pointers/lc_1234_replace_substring_for_balanced_string.py) | O(n) | O(1) |
 | 1247 | Minimum Swap to Make Strings Equal | Medium | String | [lc_1247_min_swaps_make_strings_equal.py](solutions/s02_strings/lc_1247_min_swaps_make_strings_equal.py) | O(n) | O(1) |
