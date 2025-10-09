@@ -47,6 +47,7 @@ Each solution includes **Title, Difficulty, Tags, Link, Time, Space**, and conci
 | 268 | Missing Number | Easy | Array | [lc_0268_missing_number.py](solutions/s03_array/lc_0268_missing_number.py) | O(n) | O(1) |
 | 283 | Move Zeroes | Easy | Two Pointers | [lc_0283_move_zeroes.py](solutions/s04_two-pointers/lc_0283_move_zeroes.py) | O(n) | O(1) |
 | 299 | Bulls and Cows (Array Version) | Medium | String, Array | [lc_0299_bulls_and_cows.py](solutions/s03_array/lc_0299_bulls_and_cows.py) | O(n) | O(1) |
+| 323 | Number of Connected Components in an Undirected Graph | Medium | Union-Find | [lc_0323_number_of_connected_components_in_an_undirected_graph.py](solutions/s14_union_find/lc_0323_number_of_connected_components_in_an_undirected_graph.py) | O(e * α(v)) | O(v) |
 | 350 | Intersection of Two Arrays II | Easy | Two Pointers | [lc_0350_intersection_of_two_array_II.py](solutions/s04_two-pointers/lc_0350_intersection_of_two_array_II.py) | O(nlogn + mlogm) | O(1) |
 | 394 | Decode String | Medium | Stack, String | [lc_0394_decode_string.py](solutions/s02_strings/lc_0394_decode_string.py) | O(n) | O(n) |
 | 394 | Decode String | Medium | Stack | [lc_0394_decode_string.py](solutions/s05_stack/lc_0394_decode_string.py) | O(n) | O(n) |
